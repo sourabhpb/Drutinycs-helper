@@ -14,7 +14,7 @@ Run the following commands in your terminal:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/sourabhpb/Drutinycs-helper.git](https://github.com/sourabhpb/Drutinycs-helper.git) ~/Drutinycs-helper
+git clone https://github.com/sourabhpb/Drutinycs-helper.git ~/Drutinycs-helper
 
 # 2. Run the installer
 cd ~/Drutinycs-helper && bash install.sh
