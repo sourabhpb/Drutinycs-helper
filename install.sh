@@ -10,7 +10,7 @@ echo "-----------------------------------"
 
 # 1. Update Drutiny to the latest version
 echo "⬇️  Attempting to update Drutiny to the latest version..."
-if drutiny self-update; then
+if drutinycs self-update; then
     echo "✅ Drutiny updated successfully!"
 else
     echo "⚠️  Automatic update failed."
